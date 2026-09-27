@@ -1,8 +1,8 @@
 import { test, expect } from '@playwright/test';
-import RegisterPage from '../pages/RegisterPage.js';
-import LoginPage from '../pages/LoginPage.js';
-import ProductPage from '../pages/ProductPage.js';
-import CartPage from '../pages/CartPage.js';
+import RegisterPage from '../Pages/RegisterPage.js';
+import LoginPage from '../Pages/LoginPage.js';
+import ProductPage from '../Pages/ProductPage.js';
+import CartPage from '../Pages/CartPage.js';
 
 test('Register, login and add laptop to cart', async ({ page }) => {
 
