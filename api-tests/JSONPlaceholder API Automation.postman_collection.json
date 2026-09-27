@@ -1,7 +1,7 @@
 {
   "info": {
     "_postman_id": "54228df4-1b92-41a9-8e6e-ef77d6eb3f71",
-    "name": "DemoWebShop API Automation",
+    "name": "JSONPlaceholder API Automation",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "55506918",
     "_collection_link": "https://go.postman.co/collection/55506918-54228df4-1b92-41a9-8e6e-ef77d6eb3f71?source=collection_link"
