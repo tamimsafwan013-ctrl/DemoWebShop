@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import LoginPage from '../Pages/LoginPage.js';
 
 test('Invalid login should display error and user should not be logged in', async ({ page }) => {
 
