@@ -11,7 +11,9 @@
     "playwright-core": "^1.63.0",
     "undici-types": "^8.9.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

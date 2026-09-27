@@ -7,7 +7,6 @@ class CartPage {
     }
   async openCart() {
     await this.page.goto('https://demowebshop.tricentis.com/cart');
-    await this.page.waitForTimeout(3000);
 }
     async productIsVisible() {
         return await this.productName.isVisible();
